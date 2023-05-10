@@ -15,7 +15,6 @@ const CartContainer = () => {
   return (
     <main className="products-container">
       <header>Your Cart</header>
-      <h6>Project is not mobile responsive !</h6>
       <div className="total">
         Total: $ {total}
       </div>
